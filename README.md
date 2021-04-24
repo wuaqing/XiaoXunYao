@@ -8,5 +8,5 @@
                                                               __/ |            
                                                              |___/             
 ```
-[设计模式](https://github.com/xiaoxunyao/design-patterns)     [每日算法](https://github.com/xiaoxunyao/daily-algorithm)
+🎒[设计模式](https://github.com/xiaoxunyao/design-patterns)         🧮[每日算法](https://github.com/xiaoxunyao/daily-algorithm)
 
