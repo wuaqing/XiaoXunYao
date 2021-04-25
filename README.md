@@ -22,5 +22,5 @@
 
 
 ```
-<kbd>🎒[设计模式](https://github.com/xiaoxunyao/design-patterns)</kbd>         <kbd>🧮[每日算法](https://github.com/xiaoxunyao/daily-algorithm)</kbd>
+<kbd>🎒[设计模式](https://github.com/xiaoxunyao/design-patterns)</kbd> <kbd>🧮[每日算法](https://github.com/xiaoxunyao/daily-algorithm)</kbd> <kbd>🧱[数据结构](https://github.com/xiaoxunyao/data-structure)</kbd>
 
