@@ -9,9 +9,11 @@
                                                              |___/             
                                                              
 ```
-`完结`[🎒设计模式](https://github.com/xiaoxunyao/design-patterns) 
 
-`永不完结`[🧮每日算法](https://github.com/xiaoxunyao/daily-algorithm)
+| 项目名称 | 项目地址                                                   | 项目状态   |
+| -------- | ---------------------------------------------------------- | ---------- |
+| 设计模式 | [🎒设计模式](https://github.com/xiaoxunyao/design-patterns) | `完结`     |
+| 每日算法 | [🧮每日算法](https://github.com/xiaoxunyao/daily-algorithm) | `永不完结` |
+| 数据结构 | [🧱数据结构](https://github.com/xiaoxunyao/data-structure)  | `连载中`   |
 
-`连载`[🧱数据结构](https://github.com/xiaoxunyao/data-structure)
 
