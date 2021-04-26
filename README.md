@@ -11,7 +11,7 @@
 ```
 `完结`[🎒设计模式](https://github.com/xiaoxunyao/design-patterns) 
 
-<kbd>[🧮每日算法](https://github.com/xiaoxunyao/daily-algorithm)</kbd> 
+`永不完结`[🧮每日算法](https://github.com/xiaoxunyao/daily-algorithm)
 
-<kbd>[🧱数据结构](https://github.com/xiaoxunyao/data-structure)</kbd>
+`连载`[🧱数据结构](https://github.com/xiaoxunyao/data-structure)
 
