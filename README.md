@@ -10,6 +10,10 @@
                                                              
 ```
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxunyao)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 | 图标 | 项目地址                                                   | 说明 |   项目状态   |
 | -------- | ---------------------------------------------------------- | ---------- | ---------- |
 | 🎒 | [设计模式](https://github.com/xiaoxunyao/design-patterns) | 22 design patterns based on Java. |`完结`|
