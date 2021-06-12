@@ -11,4 +11,6 @@
 
 ![xiaoTools](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxunyao&repo=xiaoTools)
 ![ZFile](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxunyao&repo=ZFile)
-
+![design-patterns](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxunyao&repo=design-patterns)
+![design-patterns](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxunyao&repo=design-patterns)
+![design-patterns](https://github-readme-stats.vercel.app/api/pin/?username=xiaoxunyao&repo=design-patterns)
