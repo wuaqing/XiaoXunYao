@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=xiaoxunyao&show_icons=true)
 
-![Top Langs](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=xiaoxunyao)
+![Top Langs](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=xiaoxunyao&layout=compact)
 
 
 
