@@ -1,8 +1,8 @@
  # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/>Hey! Nice to see you.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxunyao&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api?username=xiaoxunyao&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxunyao)
+![Top Langs](https://github-readme-stats-512hul024-xiaoxunyao.vercel.app/api/top-langs/?username=xiaoxunyao)
 
 
 
